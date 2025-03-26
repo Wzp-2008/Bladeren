@@ -1,4 +1,4 @@
-# Bladeren
+# Bladeren 
 
 [![License](https://img.shields.io/github/license/LeavesMC/Bladeren?style=flat-square)](https://github.com/LeavesMC/Bladeren/blob/master/LICENSE)
 [![CI](https://img.shields.io/github/actions/workflow/status/LeavesMC/Bladeren/build.yml?label=Build&style=flat-square)](https://github.com/LeavesMC/Bladeren/actions/workflows/build.yml)
